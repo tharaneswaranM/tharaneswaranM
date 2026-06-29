@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Tharaneswaran
 
-<!--
-**tharaneswaranM/tharaneswaranM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Researcher passionate about vulnerability research, threat intelligence, exploit analysis, and secure software.
 
-Here are some ideas to get you started:
+## 🚀 Interests
+- Threat Research
+- Vulnerability Analysis (CVEs)
+- Web Application Security
+- Penetration Testing
+- Python Automation
+- AI for Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Python • Linux • Docker • Git • Burp Suite • Wireshark • Nmap • SQL • Bash
+
+## 📖 Currently Learning
+- Advanced Threat Research
+- AI Security
+- Malware Analysis
+- Cloud Security
+- Reverse Engineering
+
+> "Security is not a product, it's a continuous process."
